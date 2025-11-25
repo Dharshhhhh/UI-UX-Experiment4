@@ -36,8 +36,13 @@ To Design a wireframe diagram for a generic application or website using Balsami
 14.When the user exits, close the app.
 
 ## Output:
+![WhatsApp Image 2025-11-25 at 22 10 05_bd61bacf](https://github.com/user-attachments/assets/304d74b3-7c94-4713-8f16-b89aa251c23c)
 
-<img width="972" height="396" alt="Screenshot 2025-11-10 081752" src="https://github.com/user-attachments/assets/fd06ea67-4e9b-412b-9dc3-a19eaad95c8d" />
+![WhatsApp Image 2025-11-25 at 22 11 06_b6ddcd86](https://github.com/user-attachments/assets/e51ab4f3-4f81-4389-93ae-7464ec2f1ec3)
+
+![WhatsApp Image 2025-11-25 at 22 11 28_6d438a48](https://github.com/user-attachments/assets/2ab218de-385d-46f1-b0d6-63159463c845)
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a003c29c-7752-441f-acbe-6e03b3ed0d6f" />
 
 ## Result:
 
